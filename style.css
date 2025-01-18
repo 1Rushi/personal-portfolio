@@ -174,7 +174,7 @@
     top: 377px;
     right: -30px;
     height: 20px;
-    /* filter: grayscale(1); */
+    filter: grayscale(1);
 }
 
 .line {
